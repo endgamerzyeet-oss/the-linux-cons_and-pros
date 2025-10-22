@@ -1,0 +1,31 @@
+Reasons I love linux:
+
+A) licenses that protect freedoms
+   b. gnu gpl is great
+      i. lets companies find alternatives to up front profit
+      ii. great for promoting nonprofit ideologies 
+B) community
+   a. supportive
+   b. extremely generous! have donated millions to open source causes!
+   c. super diverse and open to ideas
+   d. innovative
+   e. generally incredible
+   f. variety!
+C) richard stallman
+   a. all hail rmseesus
+D) value good software
+   a. know the true value of open source
+E) open source
+   a. amazing!
+   b. code review from millions of people!
+      i. linux community is HUGE!
+      ii. not worried about profit
+      iii. code review can stop attacks before they happen
+   c. maintenance is great for packages that need it!
+   d. good code is valued!
+F) promotes nonprofits!
+   b. attracts many large businesses to linux!
+
+//TODO! add incredible things about the linux package manager variety and/or feats of software engineering. please keep to philosophy, but also mention how good the linux community is at programming
+
+   please! submit merge requests to ADD to this list! no deleting everthing and writing "things i love about linux: NOTHING!!!! I HATE LINUX!!!! ALL HAIL BILL GATES!!!!!" and calling it a pull request! :p
