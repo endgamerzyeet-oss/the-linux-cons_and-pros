@@ -25,6 +25,9 @@ E) open source
    d. good code is valued!
 F) promotes nonprofits!
    b. attracts many large businesses to linux!
+G) distros!
+   a. THERE ARE SO MANY DISTROS!!! THE VARIETY IS INSANE! IT'S INCREDIBLE!!!
+   b. this is REALLY a testament to how impressive the linux community is. my mind is BLOWN AWAY at how frickin COOL and UNIQUE EVERY SINGLE PROJECT IS!!! IT'S AMAZING!!!
 
 //TODO! add incredible things about the linux package manager variety and/or feats of software engineering. please keep to philosophy, but also mention how good the linux community is at programming
 
